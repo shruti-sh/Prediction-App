@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=25:04:27:E5:63:11:2A:B4:02:39:28:42:EC:04:20:05:C1:D7:74:53%3Bcom.ait.predictionapp
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    25:04:27:E5:63:11:2A:B4:02:39:28:42:EC:04:20:05:C1:D7:74:53
+
+    SHA-1 certificate fingerprint:
+    25:04:27:E5:63:11:2A:B4:02:39:28:42:EC:04:20:05:C1:D7:74:53
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyD2i_pTkEryiz9h1WHkixUA38ge</string>
+</resources>
